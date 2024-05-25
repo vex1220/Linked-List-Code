@@ -1,11 +1,9 @@
 // **********************************************************
 // * Name:  tlist.hpp                                       *
-// * Description:   Starter file for doubly-linked list.    *
-// *    This is a templated list class designed to use the. *
-// *    node class to store multiple occurances of the data *
-// *    of type T.                                          *
-// * Last Modifed by: Ben Ashir Georges                     *
-// * Date: 03/08/2024                                        *
+// * Description:Function defintion for the tlist.h file    *
+// * and the tnode.h files as well                          *
+// * Last Modifed by: Ben Georges                           *
+// * Date: 03/08/2024                                       *
 // **********************************************************
 
 
